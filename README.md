@@ -245,3 +245,6 @@ int main(){
 
 EOF.
 
+## upd:目前被禁言，理由：影响社区秩序。
+
+## upd:在[原帖](https://www.luogu.com.cn/discuss/1375206) P42下有人写MTF小说，值得观赏。
